@@ -3106,10 +3106,10 @@
     "@types/webpack-sources" "*"
     source-map "^0.6.0"
 
-"@types/xxhashjs@^0.2.2":
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/@types/xxhashjs/-/xxhashjs-0.2.2.tgz#f72d9398e94b3cb59f53b784186a70b472e61376"
-  integrity sha512-+hlk/W1kgnZn0vR22XNhxHk/qIRQYF54i0UTF2MwBAPd0e7xSy+jKOJwSwTdRQrNnOMRVv+vsh8ITV0uyhp2yg==
+"@types/xxhashjs@^0.2.3":
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/@types/xxhashjs/-/xxhashjs-0.2.3.tgz#42fd4fb28a44344895cf69f50292d539d8ea6351"
+  integrity sha512-f62Jlxfs65hsHGQaGplERT0dIWmr/H0/6jCAmlEDWx+c3nVl1YTZzWzGOYWNGRLe3Mc59huyouQis2dPnfd46g==
   dependencies:
     "@types/node" "*"
 
